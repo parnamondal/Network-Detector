@@ -1,0 +1,10 @@
+{
+  "status": "UP",
+  "ts": "2026-03-13T17:12:29.722806",
+  "gateway": "192.168.0.1",
+  "ping_ok": true,
+  "dns_ok": true,
+  "http_ok": true,
+  "latency_ms": 47.232,
+  "loss_pct": 0.0
+}
